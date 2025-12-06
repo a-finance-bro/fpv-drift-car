@@ -29,3 +29,4 @@ This project's total pre-tax/shipping/fees cost is $40.16. The total cost to bui
 
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+![alt text](image-5.png)
