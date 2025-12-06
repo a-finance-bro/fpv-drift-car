@@ -10,11 +10,9 @@ Refer to the parts list at [BOM.csv](https://github.com/a-finance-bro/fpv-drift-
   
 For the latest, updated version of the BOM, see here: https://docs.google.com/spreadsheets/d/1Lv73VUDTXfWE0b1IzYuDMYUU8_JK1C5DVHMVwzFLLAM/edit?gid=0#gid=0
   
-This project's total funding request is $77.21. The total cost to build this project without borrowing an RC controller, FPV receiver, and battery is likely much higher, potentially upwards of $300 (an estimate for the parts I'm using is provided in the BOM).  
+This project's total funding request is $42.86. The total cost to build this project without borrowing an RC controller, FPV receiver, and battery is likely much higher, potentially upwards of $300 (an estimate for the parts I'm using is provided in the BOM).  
 
 # BOM (table format)
-
-Note: I've tried to choose the cheapest sources possible. The funding ask is only $77.21, since I'm borrowing an RC controller, FPV receiver, and battery, but because the borrowed components are on the higher-end, the total cost in the BOM is much higher.
 
 | Name | Description | Unit Price | Amount | Total Price | Running Total | Need to Purchase? | Funding Total | Link (cheapest) |
 |---|---|---|---|---|---|---|---|---|
