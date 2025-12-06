@@ -5,12 +5,14 @@ This car will be RWD, with smooth wheels (no traction) for drifting, and a singl
 
 This car will not need any custom firmware, since the components come with it built-in, and I will be using ExpressLRS, which is a free and open-source firmware for RC receivers.
 
+Note regarding cost totals: The totals in the BOM and the table in the README are pre-tax. The total after tax for the two AliExpress parts is $24.18 and the total for the Radiomaster part is $27.39, for a total funding ask of $51.57.
+
 # Components  
 Refer to the parts list at [BOM.csv](https://github.com/a-finance-bro/fpv-drift-car/blob/main/BOM.csv).  
   
 For the latest, updated version of the BOM, see here: https://docs.google.com/spreadsheets/d/1Lv73VUDTXfWE0b1IzYuDMYUU8_JK1C5DVHMVwzFLLAM/edit?gid=0#gid=0
   
-This project's total funding request is $40.16. The total cost to build this project without borrowing an RC controller, FPV receiver, and battery is likely much higher, potentially upwards of $300 (an estimate for the parts I'm using is provided in the BOM).  
+This project's total pre-tax/shipping/fees cost is $40.16. The total cost to build this project without borrowing an RC controller, FPV receiver, and battery is likely much higher, potentially upwards of $300 (an estimate for the parts I'm using is provided in the BOM).  
 
 # BOM (table format)
 
