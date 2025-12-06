@@ -24,3 +24,8 @@ Note: I've tried to choose the cheapest sources possible. The funding ask is onl
 | Controller | Controller with which to drive the car. | $204.98 | 1 | $204.98 | $266.15 | N (borrowed from friend) | $38.18 | [Link](https://www.amazon.com/Radiomaster-Digital-XROSSBAND-EXpressLRS-Controller/dp/B0DSFDZ3NF/ref=sr_1_2_sspa?crid=1HOMKNYX0C6P&dib=eyJ2IjoiMSJ9.CT9pHPSrin_g6CmLvCQslFk7izY4VWLgly_uE1wif1hxQYM_d3Il4rGGxesx7QjAk-Fz7UprKvdSmZQjghw0L7Iteu2GCZPw3CBW5JhfYmksXUq_KGmiQ5YT3kDle6T1I0jEn-B1N8EUZ94I3SbsfyiCm3oYjzsFR7-DJDi8QQ9uU0BLr4fMrxVZnIBfTI6Z-n4hrN4ncQGpeXm7kQATbwFa5sojvJLLVo5FHyWI6e7wrbMRjdO6V8uFc3at4yrxU7XSeWEYKAjjS6vc0FzivdjJI4Fb8PjbfHVqBZap8.6cM-vykcRVWLctYW-UPscuJ0qQ47jHW7lXqLjgt0U-c&dib_tag=se&keywords=radiomaster+gx12&qid=1764917570&sprefix=radiomaster+gx12%2Caps%2C170&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) |
 | Servos | Servos for steering. | $2.34 | 2 | $4.68 | $270.83 | Y | $42.86 | [Link](https://www.aliexpress.com/item/1005006525330757.html) |
 | Batteries | Batteries to power the car. | $10.62 | 1 | $10.62 | $281.45 | N (borrowed from friend) | $42.86 | [Link](https://www.aliexpress.com/item/1005009576136956.html) |
+
+# Images!
+
+![alt text](image-3.png)
+![alt text](image-4.png)
